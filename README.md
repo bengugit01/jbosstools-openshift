@@ -3,6 +3,8 @@
 ## Summary
 
 This change is made by Ben.
+More changes are made by Ben!
+
 OpenShift Tools provides wizards and views for creating and maintaining OpenShift applications. 
 
 ## Install
